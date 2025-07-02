@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1 align="center"><strong>NODE BOILERPLATE - BLUE EDITION</strong></h1>
+  <h1 align="center"><strong>NODE BASE TEMPLATE </strong></h1>
   <p align="center">
 	  Don't start a new Node project from zero!<br> Use this simple <b>Nodejs</b> boilerplate with pre-configured <b>Typescript</b> in a modern way.
   </p>
